@@ -91,4 +91,4 @@ Its importance lies in improving accuracy, efficiency, and usability, ensuring A
 
 **Improved Prompt:** "Explain how AI is transforming healthcare, with examples."
 
-**Why It's Better:** The improved prompt is clear, specific, and concise, guiding the AI to focus on AI’s impact on healthcare rather than technology in general. This ensures a more relevant and useful response.
+**Why It's Better:** The improved prompt is clear, specific, and concise, guiding the AI to focus on AI’s impact on healthcare rather than technology in general. This ensures a more relevant and useful response. 
